@@ -25,26 +25,27 @@ author:
   name             : "Hayat Ullah"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student | Computer Vision"
-  location         : "Earth"
+  location         : "Boca Raton, Florida, USA"
   employer         : "Florida Atlantic University"
   uri              : # URL
   email            : "hullah2024@fau.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  linkedin         : "https://www.linkedin.com/in/hayat-ullah2024/"
+  googlescholar    : "https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9120-4882"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Hayat-Ullah-9"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/hayatkhan8660-maker"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
