@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hayat.jpg"
+  avatar           : "images/Hayat.jpg"
   name             : "Hayat Ullah"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student | Computer Vision"
