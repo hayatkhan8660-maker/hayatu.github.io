@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div align="center">
-  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of Prof. Arslan Munir. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>), working on a research project entitled <a href="https://iscaaslab.com/a-multimodal-attention-based-deep-learning-framework-for-real-time-activity-recognition-at-the-edge/"><b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b></a>. </p>
+  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>), working on a research project entitled <a href="https://iscaaslab.com/a-multimodal-attention-based-deep-learning-framework-for-real-time-activity-recognition-at-the-edge/"><b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b></a>. </p>
 </div>
 
 A data-driven personal website
