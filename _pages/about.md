@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div align="center">
-  <p> I am driven by a passion to enhance scientists’ benchwork experience through the introduction and demonstration of innovative algorithms for computer vision applications. My journey in computer vision began during my Bachelor’s degree under the mentorship of Dr. Muhammad Sajjad at the Digital Image Processing Lab at Islamia College Peshawar, an experience that significantly inspired my interest in this field.</p>
+  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at Florida Atlantic University under the supervision of Prof. Arslan Munir. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (**ISCAAS LAB**), working on a research project entitled **A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge**. </p>
 </div>
 
 A data-driven personal website
