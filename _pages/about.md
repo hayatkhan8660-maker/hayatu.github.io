@@ -49,7 +49,7 @@ Example: editing a markdown file for a talk
 
 Affiliations
 <div style="display: flex; justify-content: space-between;">
-  <img src="./images/image1.jpg" alt="Image 1" style="width: 30%;">
-  <img src="./images/image2.jpg" alt="Image 2" style="width: 30%;">
-  <img src="./images/image3.jpg" alt="Image 3" style="width: 30%;">
+  <img src="./images/Iscaas.png" alt="Image 1" style="width: 30%;">
+  <img src="./images/FAU.png" alt="Image 2" style="width: 30%;">
+  <img src="./images/KSU.png" alt="Image 3" style="width: 30%;">
 </div>
