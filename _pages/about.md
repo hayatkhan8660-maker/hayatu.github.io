@@ -48,5 +48,8 @@ Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Affiliations
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div style="display: flex; justify-content: space-between;">
+  <img src="image1.jpg" alt="Image 1" style="width: 30%;">
+  <img src="image2.jpg" alt="Image 2" style="width: 30%;">
+  <img src="image3.jpg" alt="Image 3" style="width: 30%;">
+</div>
