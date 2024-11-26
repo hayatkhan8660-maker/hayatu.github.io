@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 I am driven by a passion to enhance scientists’ benchwork experience through the introduction and demonstration of innovative algorithms for computer vision applications. My journey in computer vision began during my Bachelor’s degree under the mentorship of Dr. Muhammad Sajjad at the Digital Image Processing Lab at Islamia College Peshawar, an experience that significantly inspired my interest in this field.
+<div align="center">
+  <p> I am driven by a passion to enhance scientists’ benchwork experience through the introduction and demonstration of innovative algorithms for computer vision applications. My journey in computer vision began during my Bachelor’s degree under the mentorship of Dr. Muhammad Sajjad at the Digital Image Processing Lab at Islamia College Peshawar, an experience that significantly inspired my interest in this field.</p>
+</div>
 
 A data-driven personal website
 ======
