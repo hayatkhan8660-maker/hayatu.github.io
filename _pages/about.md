@@ -48,8 +48,10 @@ Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Affiliations
+------
+
 <div style="display: flex; justify-content: space-between;">
-  <img src="./images/Iscaas.png" alt="Image 1" style="width: 30%;">
-  <img src="./images/FAU.png" alt="Image 2" style="width: 30%;">
-  <img src="./images/KSU.png" alt="Image 3" style="width: 30%;">
+  <img src="./images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
+  <img src="./images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
+  <img src="./images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
 </div>
