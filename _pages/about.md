@@ -11,7 +11,7 @@ redirect_from:
   <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>), working on a research project entitled <a href="https://iscaaslab.com/a-multimodal-attention-based-deep-learning-framework-for-real-time-activity-recognition-at-the-edge/"><b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b></a>. </p>
 </div>
 
-A data-driven personal website
+Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
