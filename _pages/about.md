@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div align="center">
-  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <b>Florida Atlantic University<b> under the supervision of Prof. Arslan Munir. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<b>ISCAAS LAB</b>), working on a research project entitled <b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b>. </p>
+  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <b>Florida Atlantic University</b>b> under the supervision of Prof. Arslan Munir. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<b>ISCAAS LAB</b>), working on a research project entitled <b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b>. </p>
 </div>
 
 A data-driven personal website
