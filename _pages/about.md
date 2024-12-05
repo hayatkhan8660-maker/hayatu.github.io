@@ -49,4 +49,4 @@ Many people use a git client to create files on their local computer and then pu
 
 Affiliations
 ------
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/Iscaas.png)
