@@ -49,4 +49,8 @@ Many people use a git client to create files on their local computer and then pu
 
 Affiliations
 ------
-![Editing a markdown file for a talk](/images/Iscaas.png)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="../images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
+  <img src="../images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
+  <img src="../images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
+</div>
