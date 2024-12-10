@@ -52,15 +52,18 @@ Affiliations
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
-    <p>Text for Image 1</p>
+    <a href="https://iscaaslab.com/" target="_blank">ISCAAS LAB</a>
+    <p>Graduate Research Assistant</p>
   </div>
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
-    <p>Text for Image 2</p>
+    <a href="https://www.fau.edu/" target="_blank">Florida Atlantic University</a>
+    <p>Graduate Research Assistant</p>
   </div>
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
-    <p>Text for Image 3</p>
+    <a href="https://www.k-state.edu/" target="_blank">Kansas State University</a>
+    <p>Graduate Research Assistant</p>
   </div>
 </div>
 
