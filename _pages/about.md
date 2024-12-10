@@ -85,5 +85,4 @@ Affiliations
                   
                       
                     </tr>
-          
-                  </tbody></table>
+</tbody></table>
