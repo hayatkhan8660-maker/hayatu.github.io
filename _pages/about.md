@@ -13,9 +13,6 @@ redirect_from:
   <p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p> 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 1" style="width: 100px; height: auto;">
-</div>
 
 Research
 ======
@@ -53,7 +50,7 @@ Many people use a git client to create files on their local computer and then pu
 Affiliations
 ------
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="../images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
-  <img src="../images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
-  <img src="../images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
 </div>
