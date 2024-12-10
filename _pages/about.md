@@ -49,40 +49,19 @@ Many people use a git client to create files on their local computer and then pu
 
 Affiliations
 ------
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
+<div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
+    <p>Text for Image 1</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
+    <p>Text for Image 2</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
+    <p>Text for Image 3</p>
+  </div>
 </div>
 
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          
-          
-                    <tr onmouseout="regnerf_stop()" onmouseover="regnerf_start()">
 
-                      <td style="padding:5px;width:33%;vertical-align:middle;text-align: center;">
-                          <img src='images/kstate.png' width="100">
-                          <br><a href="https://www.k-state.edu/" target="_blank"><small>Kansas State University</small></a><small><br> Graduate Teaching Assistant <br> Aug. 2021 - Dec. 2022 
-						  <br> CIS 530/730 (Introduction to AI), & <br>  CIS: 209A/B (Computer Programming)
-						  </small>
-                    </td>
-					
-					<td style="padding:5px;width:33%;vertical-align:middle;text-align: center;">
-                          <img src='images/iscaas.png' width="90">
-                          <br><a href="https://iscaaslab.com/" target="_blank"><small>ISCAAS Lab</small></a><small><br> Graduate Research Assistant <br> Jan. 2023 - Current
-						  <br><a href="https://iscaaslab.com/artificial-intelligence-assisted-spacecraft-trajectory-optimization-and-planning/" target="_blank"><small>NASA AI Project</small></a><small>
-						  <br><a href="https://iscaaslab.com/pkc-and-puf-based-authentication-and-secret-key-establishment-in-smart-grid/" target="_blank"><small>DOE Security Project</small></a><small>
-						  </small>
-                    </td>
-          
-                      <td style="padding:5px;width:33%;vertical-align:middle;text-align: center;">
-                          <img src='images/medipol.png' width="92">
-                          <br><a href="https://sens.medipol.edu.tr/graduate/" target="_blank"><small>Istanbul Medipol University</small></a><small>
-						  <br><a href="https://nrg.medipol.edu.tr/?page_id=2287" target="_blank"><small>Neuroprosthetics Lab</small></a><small></small>
-						  <br> Graduate Research Assistant <br> Oct. 2018 - Dec. 2020
-                      </td>
-
-                  
-                      
-                    </tr>
-</tbody></table>
