@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<div align="center">
+  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>), working on a research project entitled <a href="https://iscaaslab.com/a-multimodal-attention-based-deep-learning-framework-for-real-time-activity-recognition-at-the-edge/"><b>A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge</b></a>. </p>
+  <p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p>
+</div>
 
-A data-driven personal website
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="../images/KSU.png" alt="Image 1" style="width: 100px; height: auto;">
+</div>
+
+Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -41,9 +48,11 @@ How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Affiliations
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="../images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
+  <img src="../images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
+  <img src="../images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
+</div>
