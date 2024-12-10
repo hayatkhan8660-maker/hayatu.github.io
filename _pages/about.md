@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/KSU.png" alt="Image 1" style="width: 100px; height: auto;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 1" style="width: 100px; height: auto;">
 </div>
 
 Research
