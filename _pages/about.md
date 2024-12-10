@@ -49,7 +49,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Affiliations
 ------
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
