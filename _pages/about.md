@@ -52,7 +52,7 @@ Affiliations
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
-    <a href="https://iscaaslab.com/" target="_blank">ISCAAS LAB</a>
+    <p><a href="https://iscaaslab.com/" target="_blank">ISCAAS LAB</a></p>
     <p>Graduate Research Assistant</p>
   </div>
   <div style="text-align: center;">
