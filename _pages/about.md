@@ -66,5 +66,3 @@ Affiliations
     <p style="margin: 0; padding: 0;">Graduate Research Assistant</p>
   </div>
 </div>
-
-
