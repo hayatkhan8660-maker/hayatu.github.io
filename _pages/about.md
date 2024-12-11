@@ -62,8 +62,8 @@ Affiliations
   </div>
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
-    <p><a href="https://www.k-state.edu/" target="_blank">Kansas State University</a></p>
-    <p>Graduate Research Assistant</p>
+     <p style="margin: 0; padding: 0;"><a href="https://www.k-state.edu/" target="_blank">Kansas State University</a></p>
+    <p style="margin: 0; padding: 0;">Graduate Research Assistant</p>
   </div>
 </div>
 
