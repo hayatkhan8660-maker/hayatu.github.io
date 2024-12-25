@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div align="center">
-  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>).</p>
-  <p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p> 
+  <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>). Earlier, I completed my Master’s degree in 2020 at Sejong University, South Korea, under the supervision of <a href="https://sejong.elsevierpure.com/en/persons/jong-weon-lee"><b>Prof. Jong Weon Lee</b>.</a></p>
+  
 </div>
 
 Research Interesets
