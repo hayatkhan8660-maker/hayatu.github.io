@@ -13,6 +13,10 @@ redirect_from:
   <p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p> 
 </div>
 
+Research Interesets
+======
+<p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p>
+
 News
 ======
 - **Oct, 2024:** One paper accepted at WACV-2025
