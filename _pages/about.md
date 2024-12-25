@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 Research Interesets
-======
+----
 <p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p>
 
 News
