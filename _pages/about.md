@@ -15,7 +15,8 @@ redirect_from:
 
 Research Interesets
 ----
-<p>My research interests mainly include Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p>
+<p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatiotemporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p>
+<-- <p>My primary research interests focuses on Vision-Lanugage Models for Video Analyics, Human Action Recognition, Temporal Action Localization in Long Untirmmed Videos, and Adversarial Robustness. </p> !-->
 
 News
 ======
