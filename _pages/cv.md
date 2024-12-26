@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://hayatkhan8660-maker.github.io/hayatu.github.io/pdfs/Hayat_Resume.pdf">
+<img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/pdfs/Hayat_Resume.pdf">
+
 
 Education
 ======
