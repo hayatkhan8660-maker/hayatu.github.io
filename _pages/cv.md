@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<image src="/pdfs/Hayat_Resume.pdf"/>
+<img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/pdfs/Hayat_Resume.pdf"/>
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
