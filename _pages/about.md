@@ -40,8 +40,8 @@ Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
-    <p><i>Submitted to IEEE TCSVT</i></p>
+    <h3>Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
+    <p><i>Submitted to Elsevier AI Open</i></p>
     <p>
       Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
       using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
