@@ -25,8 +25,8 @@ News
 
 Selected Publications
 ----
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="image1.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 20px;">
   <div>
     <h3>Conservative Q-Learning through Diffusion Generative Models</h3>
     <p><i>Ongoing Project</i></p>
