@@ -17,16 +17,11 @@ Research Interesets
 <div align="center">
 <p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatiotemporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p> </div>
 
-<!--
+
 News
 ======
-- **Oct, 2024:** One paper accepted at WACV-2025
-- **Jul, 2024:** One paper accepted at ECCV-2024.
-- **Jun, 2024:** One paper accepted at IJCB-2024 (Oral).
-- **Feb, 2024:** One paper accepted at CVPR-2024.
-- **Feb, 2023:** One paper accepted at IEEE Access
-- **Aug, 2022:** One paper accepted at WACV-2023.
--->
+- **Oct, 2024:** I successfully passed my Ph.D. Candidact Exam.
+
 
 
 
