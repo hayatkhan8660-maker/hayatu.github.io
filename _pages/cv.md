@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-![some discription](/pdfs/Hayat_Resume.pdf "some discription")
+<image src="/pdfs/Hayat_Resume.pdf"/>
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
