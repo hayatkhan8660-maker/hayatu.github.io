@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+{% include base_path %}
 
 <image src="/pdfs/Hayat_Resume.pdf"/>
 Education
