@@ -49,6 +49,18 @@ Selected Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3>OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments</h3>
+    <p><i>Submitted to ACM Transactions on MCCA</i></p>
+    <p>
+      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
+      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    </p>
+  </div>
+</div>
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
