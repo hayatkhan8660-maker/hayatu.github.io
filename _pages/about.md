@@ -38,7 +38,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
     <p><i>Submitted to IEEE TCSVT</i></p>
