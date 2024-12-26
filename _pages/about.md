@@ -50,7 +50,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3>OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments</h3>
     <p><i>Submitted to ACM Transactions on MCCA</i></p>
