@@ -10,12 +10,12 @@ redirect_from:
 
 <div align="center">
   <p> I am pursuing PhD degree in Computer Science (major in Computer Vision) at <a href="https://www.fau.edu/"><b>Florida Atlantic University</b></a> under the supervision of <a href="https://munir.iscaaslab.com/"><b>Prof. Arslan Munir</b></a>. I work as Graduate Research Assistant at Intelligent Systems, Computer Architecture, Analytics and Security Laboratory (<a href="https://iscaaslab.com/"><b>ISCAAS LAB</b></a>). Earlier, I completed my Master’s degree in 2020 at Sejong University, South Korea, under the supervision of <a href="https://sejong.elsevierpure.com/en/persons/jong-weon-lee"><b>Prof. Jong Weon Lee</b>.</a></p>
-  
-</div>
+  </div>
 
 Research Interesets
 ----
-<p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatiotemporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p>
+<div align="center">
+<p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatiotemporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p> </div>
 
 <!--
 News
