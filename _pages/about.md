@@ -19,7 +19,7 @@ Research Interesets
 
 
 News
-======
+----
 - **Oct, 2024:** I successfully passed my Ph.D. Candidacy Exam.
 
 
