@@ -155,4 +155,4 @@ Professional Services
 - Elsevier Journal of Image and Vision Computing
 
 **Reviewer at Conferences**
-- AAAI' 2020
+- AAAI' 2022
