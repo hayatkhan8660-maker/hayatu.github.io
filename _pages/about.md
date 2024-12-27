@@ -152,7 +152,7 @@ Professional Services
 - IEEE Transactions on Image Processing
 - IEEE Transactions on MultiMedia,
 - IEEE Access
-- Elsevier Image and Vision Computing.
+- Elsevier Image and Vision Computing
 
 **Reviewer at Conferences**
 - AAAI' 2020
