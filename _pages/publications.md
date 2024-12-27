@@ -7,9 +7,9 @@ author_profile: true
 
 Journal Articles
 ----
-- [**Decomposed Distribution Matching in Dataset Condensation**](https://arxiv.org/abs/2412.04748),
-Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Nasser M. Nasrabadi,
-_In WACV 2025_, [CODE](https://github.com/SaharR1372/DM_Style_matching)
+- **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**,
+Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir
+_Submitted to IEEE TCSVT_, 
 
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
