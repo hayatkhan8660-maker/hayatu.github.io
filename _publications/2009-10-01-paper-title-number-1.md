@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
