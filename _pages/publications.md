@@ -7,11 +7,6 @@ author_profile: true
 
 Journal Articles
 ----
-<div>
-  <h3><b>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</b></h3>
-  <p><strong>Authors:</strong> Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir</p> 
-  <p><em>Submitted to IEEE TCSVT</em></p>
-</div>
 
 - **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition** <br>
 Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir <br>
