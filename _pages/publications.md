@@ -7,9 +7,13 @@ author_profile: true
 
 Journal Articles
 ----
-- **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**,
-Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir
-_Submitted to IEEE TCSVT_, 
+<div>
+  <h1>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h1>
+  
+  <p><strong>Authors:</strong> Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir</p>
+  
+  <p><em>Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em></p>
+</div>
 
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
