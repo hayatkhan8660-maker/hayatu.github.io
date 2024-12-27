@@ -150,7 +150,7 @@ Professional Services
 
 **Reviewer at Journals**
 - IEEE Transactions on Image Processing
-- IEEE Transactions on MultiMedia,
+- IEEE Transactions on MultiMedia
 - IEEE Access
 - Elsevier Image and Vision Computing
 
