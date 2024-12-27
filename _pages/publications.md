@@ -36,6 +36,10 @@ _IEEE TITS (2022)_
 Khan Muhammad, **Hayat Ullah**, Salman Khan, Mohammad Hijji, Jaime Lloret <br>
 _IEEE TITS (2022)_, [CODE](https://github.com/hayatkhan8660-maker/Fire_Seg_Dataset)
 
+- [**WEENet: an intelligent system for diagnosing COVID-19 and lung cancer in IoMT environments**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.811355/full) <br>
+Khan Muhammad, **Hayat Ullah**, Zulfiqar Ahmad Khan, Abdul Khader Jilani Saudagar, Abdullah AlTameem, Mohammed AlKhathami, Muhammad Badruddin Khan, Mozaherul Hoque Abul Hasanat, Khalid Mahmood Malik, Mohammad Hijji, Muhammad Sajjad <br>
+_Frontiers in oncology (2022)_
+
 - [**Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing**](https://ieeexplore.ieee.org/abstract/document/9562276) <br>
 **Hayat Ullah**, Khan Muhammad, Muhammad Irfan, Saeed Anwar, Muhammad Sajjad, Ali Shariq Imran, Victor Hugo C De Albuquerque <br>
 _IEEE TIP (2021)_, [CODE](https://github.com/hayatkhan8660-maker/Light-DehazeNet)
