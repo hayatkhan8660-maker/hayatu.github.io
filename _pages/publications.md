@@ -45,5 +45,13 @@ Khan Muhammad, **Hayat Ullah**, Mohammad S Obaidat, Amin Ullah, Arslan Munir, Mu
 _IEEE IoTJ (2021)_
 
 
+Conference Papers
+----
+- [**A Deep Learning Framework for Blended Distortion Segmentation in Stitched Images**](https://link.springer.com/chapter/10.1007/978-3-030-71051-4_6) <br>
+**Hayat Ullah**, Muhammad Irfan, Kyungjin Han, Jong Weon Lee <br>
+_Proceedings from IPCV'20 (2021)_
 
+- [**Real-time video dehazing for industrial image processing**](https://ieeexplore.ieee.org/abstract/document/8982486) <br>
+**Hayat Ullah**, Irfan Mehmood <br>
+_Proceedings from ICSKIMA (2019)_
 
