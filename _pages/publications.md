@@ -13,6 +13,10 @@ Journal Articles
   <p><em>Submitted to IEEE TCSVT</em></p>
 </div>
 
+- **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition** <br>
+Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir <br>
+_Submitted to IEEE TCSVT_, 
+
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
 _In ECCV 2024_, [CODE](https://github.com/msed-Ebrahimi/ARoFace)
