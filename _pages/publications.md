@@ -9,21 +9,41 @@ Journal Articles
 ----
 
 - **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition** <br>
-Hayat Ullah, Muhammad Ali Shafique, Abbas Khan, Arslan Munir <br>
-_Submitted to IEEE TCSVT_, 
+**Hayat Ullah**, Muhammad Ali Shafique, Abbas Khan, Arslan Munir <br>
+_Submitted to IEEE TCSVT (2024)_
 
-- [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
-Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
-_In ECCV 2024_, [CODE](https://github.com/msed-Ebrahimi/ARoFace)
+- **OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments** <br>
+**Hayat Ullah**, Abbas Khan, Abbas Khan, Arslan Munir <br>
+_Submitted to ACM MCCA (2024)_
 
-- [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**](https://arxiv.org/abs/2403.16937),
-Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi,
-_In CVPR 2024_, [CODE](https://github.com/msed-Ebrahimi/DL2PA_CVPR24)
+- **Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation** <br>
+**Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
+_Submitted to Elsevier AI Open (2024)_
 
-- [**Joint Super-Resolution and Head Pose Estimation for Extreme Low-Resolution Faces**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034761),
-Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Moktari Mostofa, Sobhan Soleymani, Nasser M. Nasrabadi,
-_In IEEE Access 2023_,
+- [**Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Rhrust Spacecraft Orbit-Transfer**](https://ieeexplore.ieee.org/abstract/document/10207710) <br>
+Syed Muhammad Talha Zaidi, Pardha Sai Chadalavada, **Hayat Ullah**, Arslan Munir, Atri Dutta <br>
+_IEEE Access (2023)_, [CODE](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer)
 
-- [**A Quality Aware Sample-to-Sample Comparison for Face Recognition**](https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html),
-Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi,
-_In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023_,
+- [**Vit-Ret: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**](https://ieeexplore.ieee.org/abstract/document/10177697) <br>
+James Wensel, **Hayat Ullah**, Arslan Munir <br>
+_IEEE Access (2023)_
+
+- [**Vision-based semantic segmentation in scene understanding for autonomous driving: Recent achievements, challenges, and outlooks**](https://ieeexplore.ieee.org/abstract/document/9913352) <br>
+Khan Muhammad, Tanveer Hussain, **Hayat Ullah**, Javier Del Ser, Mahdi Rezaei, Neeraj Kumar, Mohammad Hijji, Paolo Bellavista, Victor Hugo C de Albuquerque <br>
+_IEEE TITS (2022)_
+
+- [**Efficient fire segmentation for internet-of-things-assisted intelligent transportation systems**](https://ieeexplore.ieee.org/abstract/document/9894370) <br>
+Khan Muhammad, **Hayat Ullah**, Salman Khan, Mohammad Hijji, Jaime Lloret <br>
+_IEEE TITS (2022)_, [CODE](https://github.com/hayatkhan8660-maker/Fire_Seg_Dataset)
+
+- [**Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing**](https://ieeexplore.ieee.org/abstract/document/9562276) <br>
+**Hayat Ullah**, Khan Muhammad, Muhammad Irfan, Saeed Anwar, Muhammad Sajjad, Ali Shariq Imran, Victor Hugo C De Albuquerque <br>
+_IEEE TIP (2021)_, [CODE](https://github.com/hayatkhan8660-maker/Light-DehazeNet)
+
+- [**AI-driven salient soccer events recognition framework for next-generation IoT-enabled environments**](https://ieeexplore.ieee.org/abstract/document/9530232) <br>
+Khan Muhammad, **Hayat Ullah**, Mohammad S Obaidat, Amin Ullah, Arslan Munir, Muhammad Sajjad, Victor Hugo C De Albuquerque <br>
+_IEEE IoTJ (2021)_
+
+
+
+
