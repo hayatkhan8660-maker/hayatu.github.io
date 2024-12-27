@@ -42,7 +42,9 @@ Work Experience
      <p style="margin: 0; padding: 0;"><a href="https://en.sejong.ac.kr/eng/index.do" target="_blank">Sejong University</a> <br>
      Graduate Research Assistant <br> 
      <b><small>March 2019 - January 2021</small></b> </p>
-  </div> <br>
+  </div>
+</div>
+<div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
   <div style="text-align: center;">
     <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
     <p style="margin: 0; padding: 0;"><a href="https://www.fau.edu/" target="_blank">Florida Atlantic University</a> <br>
@@ -54,12 +56,6 @@ Work Experience
      <p style="margin: 0; padding: 0;"><a href="https://www.k-state.edu/" target="_blank">Kansas State University</a> <br>
     Graduate Research Assistant <br>
     <b><small>January 2022 - July 2024</small></b> </p>
-  </div>
-   <div style="text-align: center;">
-    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Sejong_University_logo.png" alt="Image 3" style="width: 100px; height: auto;">
-     <p style="margin: 0; padding: 0;"><a href="https://www.k-state.edu/" target="_blank">Sejong University</a> <br>
-     Graduate Research Assistant <br> 
-     <b><small>March 2019 - January 2021</small></b> </p>
   </div>
 </div>
 
