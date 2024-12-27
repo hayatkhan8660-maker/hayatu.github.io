@@ -145,23 +145,3 @@ Selected Publications
   </div>
 </div>
 
-
-Affiliations
-------
-<div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Iscaas.png" alt="Image 1" style="width: 100px; height: auto;">
-    <p style="margin: 0; padding: 0;"><a href="https://iscaaslab.com/" target="_blank">ISCAAS LAB</a></p>
-    <p style="margin: 0; padding: 0;">Graduate Research Assistant</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="Image 2" style="width: 100px; height: auto;">
-    <p style="margin: 0; padding: 0;"><a href="https://www.fau.edu/" target="_blank">Florida Atlantic University</a></p>
-    <p style="margin: 0; padding: 0;">Graduate Research Assistant</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: auto;">
-     <p style="margin: 0; padding: 0;"><a href="https://www.k-state.edu/" target="_blank">Kansas State University</a></p>
-    <p style="margin: 0; padding: 0;">Graduate Research Assistant</p>
-  </div>
-</div>
