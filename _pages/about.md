@@ -67,8 +67,8 @@ Selected Publications
     <h3>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
     <p><i>Submitted to IEEE TCSVT</i></p>
     <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+      <small> We propose VFL-Net, a computationally efficient model optimized for spatio-temporal context modeling using nano-scale focal modulation. By integrating forward KL divergence with spatio-temporal focal modulation, we distill local and 
+              global context from the Video-FocalNet Base (teacher) to the VFL-Net (student) </small>.
     </p>
   </div>
 </div>
