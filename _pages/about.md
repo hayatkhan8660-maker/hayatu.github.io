@@ -79,7 +79,7 @@ Selected Publications
     <h3>Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
     <p><i>Submitted to Elsevier AI Open</i></p>
     <p>
-      we present a multi-teacher adversarial robustness distillation using an adaptive learning strategy.
+    <small>  we present a multi-teacher adversarial robustness distillation using an adaptive learning strategy.
 Specifically, our proposed method first trained multiple clones of a baseline CNN model using
 an adversarial training strategy on a pool of perturbed data acquired through different adversarial
 attacks. Once trained, these adversarially trained models are used as teacher models to supervise the
@@ -88,7 +88,7 @@ effective robustness distillation, we design an adaptive learning strategy which
 contribution of each model by assigning weights as per their prediction precision. Distilling knowledge
 from adversarially pre-trained teacher models not only enhances the learning capabilities of the student
 model but also empowers it with the capacity to withstand different adversarial attacks, despite having
-no exposure to adversarial data..
+no exposure to adversarial data.</small>
     </p>
   </div>
 </div>
