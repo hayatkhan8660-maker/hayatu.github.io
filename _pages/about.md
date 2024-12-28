@@ -72,15 +72,17 @@ Selected Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
-    <p style="margin-bottom: 5px;"><i>Submitted to Elsevier AI Open</i></p>
-    <p style="margin-top: 5px;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive 
-                         weights ensure effective knowledge transfer, enhancing the student's learning and robustness to adversarial attacks without exposure to perturbed data.</small> </p>
+    <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
+    <p style="margin: 5px 0 0 0;"><i>Submitted to Elsevier AI Open</i></p>
+    <p style="margin: 5px 0 0 0;"> 
+      <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive weights ensure effective knowledge transfer, enhancing the student's learning and robustness to adversarial attacks without exposure to perturbed data.</small> 
+    </p>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
