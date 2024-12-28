@@ -66,8 +66,8 @@ Selected Publications
   <div>
     <h3 style="margin: 0;">DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
     <p style="margin: 5px 0 0 0;"><i>Submitted to IEEE TCSVT</i></p>
-    <p style="margin: 5px 0 0 0;"> <small>We propose VFL-Net, a computationally efficient model optimized for spatio-temporal context modeling using nano-scale focal modulation. By integrating forward KL divergence with spatio-temporal focal 
-                                                modulation, we distill local and global context from the Video-FocalNet Base (teacher) to the VFL-Net (student).</small> </p>
+    <p style="margin: 5px 0 0 0;"> <small>We introduces a computationally efficient VFL-Net model, optimized for spatio-temporal context modeling using nano-scale spatio-temporal focal modulation mechanism. Further, we combine the forward Kullback– 
+                      Leibler (KL) divergence and spatio-temporal focal modulation to distill the local and global spatio-temporal context from the Video-FocalNet Base (teacher) to our proposed VFL-Net (student) model.</small> </p>
   </div>
 </div>
 
