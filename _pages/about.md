@@ -86,7 +86,7 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments</h3>
     <p style="margin: 5px 0 0 0;"><i>Submitted to ACM Transactions on MCCA</i></p>
-    <p style="margin: 5px 0 0 0;"> <small> We introduce two object detection benchmarks, OD-VIRAT Large and OD-VIRAT Tiny, for surveillance imagery. Both cover 10 scenes recorded from significant height and distance. OD-VIRAT Large has 8.7 million instances in 599,996 images, while OD-VIRAT Tiny has 288,901 instances in 19,860 images. These benchmarks offer rich annotations of bounding boxes and categories. We benchmark state-of-the-art models, including RETMDET, YOLOX, RetinaNet, DETR, and Deformable-DETR. </small> </p>
+    <p style="margin: 5px 0 0 0;"> <small> We introduce two object detection benchmarks, OD-VIRAT Large and OD-VIRAT Tiny, for surveillance imagery. Both cover 10 scenes recorded from significant height and distance. OD-VIRAT Large contains 8.7 million instances in 599,996 images, while OD-VIRAT Tiny has 288,901 instances in 19,860 images. Our proposed OD-VIRAT offers rich annotations of bounding boxes and categories. </small> </p>
   </div>
 </div>
 
