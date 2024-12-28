@@ -76,7 +76,7 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
     <p style="margin: 5px 0 0 0;"><i>Submitted to Elsevier AI Open</i></p>
-    <p style="margin: 5px 0 0 0;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive weights ensure effective knowledge transfer, enhancing the student's learning and robustness to adversarial attacks without exposure to perturbed data.</small> 
+    <p style="margin: 5px 0 0 0;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive weights adjust the teachers' contributions based on precision. This enhances the student's learning and robustness to adversarial attacks. The student model remains resilient without exposure to perturbed data.</small> 
     </p>
   </div>
 </div>
