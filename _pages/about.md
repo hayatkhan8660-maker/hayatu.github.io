@@ -72,7 +72,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: 300px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
     <p style="margin: 5px 0 0 0;"><i>Submitted to Elsevier AI Open</i></p>
