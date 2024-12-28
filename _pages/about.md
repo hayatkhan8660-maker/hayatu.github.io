@@ -32,7 +32,7 @@ Work Experience
     <b><small>August 2024 - Present</small></b> </p>
   </div>
   <div style="text-align: center;">
-    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: 100px;">
+    <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="Image 3" style="width: 100px; height: 150px;">
      <p style="margin: 0; padding: 0;"><a href="https://www.k-state.edu/" target="_blank">Kansas State University</a> <br>
     Graduate Research Assistant <br>
     <b><small>January 2022 - July 2024</small></b> </p>
