@@ -63,7 +63,7 @@ Selected Publications
 ----
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
+  <div style="text-align: justify;"> 
     <h3 style="margin: 0;">DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
     <p style="margin: 5px 0 0 0;"><i>Submitted to IEEE TCSVT</i></p>
     <p style="margin: 5px 0 0 0;"> <small>We introduces a computationally efficient VFL-Net model, optimized for spatio-temporal context modeling using nano-scale spatio-temporal focal modulation mechanism. Further, we combine the forward Kullback– 
