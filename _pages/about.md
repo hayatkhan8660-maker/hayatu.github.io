@@ -82,63 +82,52 @@ Selected Publications
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments</h3>
-    <p><i>Submitted to ACM Transactions on MCCA</i></p>
-    <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    <h3 style="margin: 0;">OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments</h3>
+    <p style="margin: 5px 0 0 0;"><i>Submitted to ACM Transactions on MCCA</i></p>
+    <p style="margin: 5px 0 0 0;"> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/scene_understanding_surveyy.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks</h3>
-    <p><i>IEEE Transactions on Intelligent Transportation</i></p>
-    <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks</h3>
+    <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
+    <p style="margin: 5px 0 0 0;"> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/fire_seg_framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems</h3>
-    <p><i>IEEE Transactions on Intelligent Transportation</i></p>
-    <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems</h3>
+    <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
+    <p style="margin: 5px 0 0 0;"> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing</h3>
-    <p><i>IEEE Transactions on Image Processing</i></p>
-    <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing</h3>
+    <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Image Processing</i></p>
+    <p style="margin: 5px 0 0 0;"> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/GTO-GEO.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer</h3>
-    <p><i>IEEE Access</i></p>
-    <p>
-      Aim of this project is to mitigate distributional shift between behavioral and learned policies,  
-      using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
+    <h3 style="margin: 0;">Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer</h3>
+    <p style="margin: 5px 0 0 0;"><i>IEEE Access</i></p>
+    <p style="margin: 5px 0 0 0;"> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
     </p>
   </div>
 </div>
