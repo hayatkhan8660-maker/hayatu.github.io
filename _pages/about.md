@@ -61,14 +61,13 @@ Work Experience
 
 Selected Publications
 ----
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3>DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition</h3>
-    <p style="margin-bottom: 5px;"><i>Submitted to IEEE TCSVT</i></p>
-    <p style="margin-bottom: 5px;"> <small> We propose VFL-Net, a computationally efficient model optimized for spatio-temporal context modeling using nano-scale focal modulation. By integrating forward KL divergence with spatio-temporal focal 
-                               modulation, we distill local and global context from the Video-FocalNet Base (teacher) to the VFL-Net (student) </small>.
-    </p>
+    <h3>Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation</h3>
+    <p style="margin-bottom: 5px  0 0 0;"><i>Submitted to Elsevier AI Open</i></p>
+    <p style="margin-top: 5px  0 0 0;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. 
+                         Adaptive weights ensure effective knowledge transfer, enhancing the student's learning and robustness to adversarial attacks without exposure to perturbed data.</small> </p>
   </div>
 </div>
 
