@@ -15,7 +15,7 @@ redirect_from:
 Research Interests
 ----
 <div align="center">
-<p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatiotemporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p> </div>
+<p>My primary research focuses on multimodal-driven video analytics, including action and activity recognition, temporal action localization, and spatio-temporal action detection in videos. Additionally, I specialize in pretraining, fine-tuning, and zero-shot learning of vision-language models for video analytics tasks. Furthermore, I have expertise in knowledge distillation and enhancing adversarial robustness in machine learning models. </p> </div>
 
 
 News
