@@ -102,7 +102,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/fire_seg_framework.png" alt="Image 1" style="width: 410px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/fire_seg_framework.png" alt="Image 1" style="width: 350px; height: auto; margin-left: 0px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
