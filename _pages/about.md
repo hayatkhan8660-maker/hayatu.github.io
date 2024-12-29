@@ -93,7 +93,7 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/scene_understanding_survey2.png" alt="Image 1" style="width: 350px; height: 278px; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks</h3>
+    <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9913352" title="Tooltip Text">PDF</a></h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
     <p style="margin: 5px 0 0 0;"> <small> This survey reviews the current achievements in scene understanding, focusing on computationally complex deep learning models. It outlines the generic pipeline, evaluates state-of-the-art performance, and                                 analyzes the time complexity of advanced modeling approaches. Additionally, it highlights key successes and limitations in current research efforts.
           </small> </p>
