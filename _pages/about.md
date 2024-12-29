@@ -103,7 +103,7 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems</h3>
+    <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894370" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
     <p style="margin: 5px 0 0 0;"> <small> We propose an efficient and lightweight CNN architecture for early fire detection and segmentation, focusing on IoT-enabled ITS environments. We effectively utilize depth-wise separable convolution, point-wise 
      group convolution, and a channel shuffling strategy with an optimal number of convolution kernels per layer, significantly reducing the model size and computation costs. </small> </p>
@@ -113,7 +113,7 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: 235px; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing</h3>
+    <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562276" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Image Processing</i></p>
     <p style="margin: 5px 0 0 0;"> <small> We present Light-DehazeNet (LD-Net), a lightweight CNN for hazy image reconstruction that jointly estimates the transmission map and atmospheric light using a transformed scattering model. A color visibility restoration method is proposed to avoid color distortion. Extensive experiments are conducted with synthetic and natural hazy images. </small> </p>
   </div>
@@ -122,7 +122,7 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/GTO-GEO.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer</h3>
+    <h3 style="margin: 0;">Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207710" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Access</i></p>
     <p style="margin: 5px 0 0 0;"> <small> We introduce a cascaded deep reinforcement learning (DRL) model to guide low-thrust spacecraft toward desired orbits by determining optimal thrust directions. A gradient-aided reward function based on orbital                               elements ensures mission requirements and optimal flight times. Results demonstrate time-efficient, near-optimal orbit-raising. This approach effectively improves spacecraft trajectory planning.  </small> </p>
   </div>
