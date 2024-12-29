@@ -111,7 +111,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: 230px; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: 235px; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Image Processing</i></p>
