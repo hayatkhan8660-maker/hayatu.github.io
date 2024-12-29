@@ -95,7 +95,7 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
-    <p style="margin: 5px 0 0 0;"> <small> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions. 
+    <p style="margin: 5px 0 0 0;"> <small> This survey reviews the current achievements in scene understanding, focusing on computationally complex deep learning models. It outlines the generic pipeline, evaluates state-of-the-art performance, and                                 analyzes the time complexity of advanced modeling approaches. Additionally, it highlights key successes and limitations in current research efforts.
           </small> </p>
   </div>
 </div>
