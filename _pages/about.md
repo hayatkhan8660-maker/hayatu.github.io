@@ -105,8 +105,8 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
-    <p style="margin: 5px 0 0 0;"> <small> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
-    </small> </p>
+    <p style="margin: 5px 0 0 0;"> <small> we propose an efficient and lightweight CNN architecture for early fire detection and segmentation, focusing on IoT-enabled ITS environments. We effectively utilize depth-wise separable convolution, point-wise 
+     group convolution, and a channel shuffling strategy with an optimal number of convolution kernels per layer, significantly reducing the model size and computation costs. </small> </p>
   </div>
 </div>
 
