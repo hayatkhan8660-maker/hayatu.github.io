@@ -115,8 +115,8 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Image Processing</i></p>
-    <p style="margin: 5px 0 0 0;"> <small> Aim of this project is to mitigate distributional shift between behavioral and learned policies, using diffusion probabilistic models to enhance policy consistency and reduce out-of-distribution actions.
-                 </small> </p>
+    <p style="margin: 5px 0 0 0;"> <small> 
+We present Light-DehazeNet (LD-Net), a computationally efficient lightweight CNN for hazy image reconstruction. Unlike other methods, LD-Net jointly estimates both the transmission map and atmospheric light using a transformed scattering model. A color visibility restoration method is also proposed to avoid color distortion. Extensive experiments are conducted using synthetic and natural hazy images. </small> </p>
   </div>
 </div>
 
