@@ -124,9 +124,7 @@ Selected Publications
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Access</i></p>
-    <p style="margin: 5px 0 0 0;"> <small> we introduce a cascaded deep reinforcement learning (DRL) model to guide a low-thrust spacecraft towards the desired orbit by determining an appropriate thrust direction at each
-                state. To ensure mission requirements, a gradient-aided reward function incorporating the orbital elements, guides the DRL agent to obtain the optimal flight time. The obtained results demonstrate that our proposed
-                approach yields optimal or near-optimal time-efficient spacecraft orbit-raising.  </small> </p>
+    <p style="margin: 5px 0 0 0;"> <small> We introduce a cascaded deep reinforcement learning (DRL) model to guide low-thrust spacecraft toward desired orbits by determining optimal thrust directions. A gradient-aided reward function based on orbital                               elements ensures mission requirements and optimal flight times. Results demonstrate time-efficient, near-optimal orbit-raising. This approach effectively improves spacecraft trajectory planning.  </small> </p>
   </div>
 </div>
 
