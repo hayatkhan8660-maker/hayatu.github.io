@@ -91,7 +91,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/scene_understanding_survey2.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/scene_understanding_survey2.png" alt="Image 1" style="width: 350px; height: 235px; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks</h3>
     <p style="margin: 5px 0 0 0;"><i>IEEE Transactions on Intelligent Transportation</i></p>
