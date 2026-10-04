@@ -8,17 +8,25 @@ author_profile: true
 Journal Articles
 ----
 
-- **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition** <br>
+- [**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**](https://arxiv.org/abs/2507.16781) <br>
+Imran Latif, Muhammad Ali Shafique, **Hayat Ullah**, Alex C. Newkirk, Xi Yu, Arslan Munir <br>
+_arXiv (2025)_, [CODE](https://github.com/iscaas/HPC-Performance-Benchmarking/tree/main/Liquid_vs_Air-cooled_H100_Benchmarking)
+
+- [**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**](https://arxiv.org/abs/2507.06411) <br>
+**Hayat Ullah**, Arslan Munir, Oliver Nina <br>
+_arXiv (2025)_,
+
+- [**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**](https://ieeexplore.ieee.org/abstract/document/11185187) <br>
 **Hayat Ullah**, Muhammad Ali Shafique, Abbas Khan, Arslan Munir <br>
-_Submitted to IEEE TCSVT (2024)_
+_IEEE Transactions on Circuits and Systems for Video Technology (2025)_, [CODE](https://github.com/hayatkhan8660-maker/DVFL-Net)
 
-- **OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments** <br>
+- [**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**](https://arxiv.org/abs/2507.12396) <br>
 **Hayat Ullah**, Abbas Khan, Abbas Khan, Arslan Munir <br>
-_Submitted to ACM MCCA (2024)_
+_arXiv (2025)_, [CODE](https://github.com/hayatkhan8660-maker/OD-VIRAT)
 
-- **Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation** <br>
+- [**Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation**](https://arxiv.org/abs/2507.20996) <br>
 **Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
-_Submitted to Elsevier AI Open (2024)_
+_arXiv (2025)_, 
 
 - [**Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Rhrust Spacecraft Orbit-Transfer**](https://ieeexplore.ieee.org/abstract/document/10207710) <br>
 Syed Muhammad Talha Zaidi, Pardha Sai Chadalavada, **Hayat Ullah**, Arslan Munir, Atri Dutta <br>
