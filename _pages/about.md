@@ -20,6 +20,7 @@ Research Interests
 
 News
 ----
+<span style="font-size:15px;">**Sep, 2026:** We are excited to announce that our paper entitled "OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments" has been accepted for publication in IEEE Transactions on Artificial Intelligence.</span><br>
 <span style="font-size:15px;">**Jun, 2026:**  I joined Johnson Controls as a Data Center AI Intern for summer 2026.</span><br>
 <span style="font-size:15px;">**May, 2026:**  I successfully passed my PhD Proposal Defense.</span><br>
 <span style="font-size:15px;">**Sep, 2025:** We are excited to announce that our paper entitled "DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition" has been accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology.</span><br>
