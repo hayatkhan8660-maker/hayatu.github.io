@@ -129,7 +129,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="./images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="https://hayatkhan8660-maker.github.io//images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;"> 
     <h3 style="margin: 0;">DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11185187" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></p>
