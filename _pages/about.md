@@ -20,7 +20,9 @@ Research Interests
 
 News
 ----
+<span style="font-size:15px;">**Sep, 2026:** We are excited to announce that our paper entitled "OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments" has been accepted for publication in IEEE Transactions on Artificial Intelligence.</span><br>
 <span style="font-size:15px;">**Jun, 2026:**  I joined Johnson Controls as a Data Center AI Intern for summer 2026.</span><br>
+<span style="font-size:15px;">**May, 2026:**  I successfully passed my PhD Proposal Defense.</span><br>
 <span style="font-size:15px;">**Sep, 2025:** We are excited to announce that our paper entitled "DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition" has been accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology.</span><br>
 <span style="font-size:15px;">**Sep, 2025:** We are excited to announce the publication of our white paper in collaboration with NVIDIA, Berkeley Lab, Brookhaven National Laboratory, Supermicro, and Kansas State University.</span><br>
 <span style="font-size:15px;">**Sep, 2025:** Serving as a reviewer for AAAI 2026.</span><br>
@@ -38,7 +40,7 @@ Work Experience
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://www.johnsoncontrols.com/" target="_blank">Johnson Controls</a><br>
       Data Center AI Intern<br>
-      <b><small>June 2026 - Present</small></b>
+      <b><small>June 2026 - August 2026</small></b>
     </p>
   </div>
 
@@ -142,7 +144,7 @@ Selected Publications
   <img src="./images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments [<a href="https://arxiv.org/pdf/2507.12396" title="Tooltip Text">PDF</a>]</h3>
-    <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
+    <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Artificial Intelligence</i></p>
     <p style="margin: 5px 0 0 0;"> <small> We introduce two object detection benchmarks, OD-VIRAT Large and OD-VIRAT Tiny, for surveillance imagery. Both cover 10 scenes recorded from significant height and distance. OD-VIRAT Large contains 8.7 million instances in 599,996 images, while OD-VIRAT Tiny has 288,901 instances in 19,860 images. Our proposed OD-VIRAT offers rich annotations of bounding boxes and categories. </small> </p>
   </div>
 </div>
@@ -150,8 +152,8 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="./images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: 300px; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation [<a href="https://arxiv.org/pdf/2507.20996" title="Tooltip Text">PDF</a>]</h3>
-    <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
+    <h3 style="margin: 0;">Trustworthy Adversarial Robustness via Adaptive Learning-Driven Multi-Teacher Knowledge Distillation [<a href="https://ceur-ws.org/Vol-4254/paper21.pdf" title="Tooltip Text">PDF</a>]</h3>
+    <p style="margin: 5px 0 0 0; font-size:12px;"><i>IJCAI Workshop</i></p>
     <p style="margin: 5px 0 0 0;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive weights adjust the teachers' contributions based on precision. This enhances the student's learning and robustness to adversarial attacks. The student model remains resilient without exposure to perturbed data.</small> 
     </p>
   </div>
