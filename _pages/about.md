@@ -129,7 +129,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="./images/focal_modulation.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;"> 
     <h3 style="margin: 0;">DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11185187" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></p>
@@ -139,7 +139,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="./images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments [<a href="https://arxiv.org/pdf/2507.12396" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
@@ -148,7 +148,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: 300px; margin-right: 20px;">
+  <img src="./images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: 300px; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation [<a href="https://arxiv.org/pdf/2507.20996" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
@@ -158,7 +158,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/scene_understanding_survey2.png" alt="Image 1" style="width: 350px; height: 278px; margin-right: 20px;">
+  <img src="./images/scene_understanding_survey2.png" alt="Image 1" style="width: 350px; height: 278px; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Vision-Based Semantic Segmentation in Scene Understanding for Autonomous Driving: Recent Achievements, Challenges, and Outlooks [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9913352" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Intelligent Transportation</i></p>
@@ -168,7 +168,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src=./images/framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894370" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Intelligent Transportation</i></p>
@@ -178,7 +178,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: 235px; margin-right: 20px;">
+  <img src="./images/LD-Net_framework.png" alt="Image 1" style="width: 350px; height: 235px; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562276" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Image Processing</i></p>
@@ -187,7 +187,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/GTO-GEO.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="./images/GTO-GEO.gif" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Cascaded Deep Reinforcement Learning-Based Multi-Revolution Low-Thrust Spacecraft Orbit-Transfer [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207710" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Access</i></p>
