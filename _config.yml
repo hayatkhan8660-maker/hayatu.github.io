@@ -12,7 +12,7 @@ title                    : "Hayat's Homepage"
 title_separator          : "-"
 name                     : &name "Hayat Ullah"
 description              : &description "personal description"
-url                      : "https://imhayat.com"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://hayatkhan8660-maker.github.io"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
