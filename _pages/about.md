@@ -40,7 +40,7 @@ Work Experience
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://www.johnsoncontrols.com/" target="_blank">Johnson Controls</a><br>
       Data Center AI Intern<br>
-      <b><small>June 2026 - Present</small></b>
+      <b><small>June 2026 - August 2026</small></b>
     </p>
   </div>
 
