@@ -151,8 +151,8 @@ Selected Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
   <img src="./images/adversarial_robustness.gif" alt="Image 1" style="width: 350px; height: 300px; margin-right: 20px;">
   <div style="text-align: justify;">
-    <h3 style="margin: 0;">Improving Adversarial Robustness Through Adaptive Learning-Driven Multi-Teacher Knowledge Distillation [<a href="https://arxiv.org/pdf/2507.20996" title="Tooltip Text">PDF</a>]</h3>
-    <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
+    <h3 style="margin: 0;">Trustworthy Adversarial Robustness via Adaptive Learning-Driven Multi-Teacher Knowledge Distillation [<a href="https://ceur-ws.org/Vol-4254/paper21.pdf" title="Tooltip Text">PDF</a>]</h3>
+    <p style="margin: 5px 0 0 0; font-size:12px;"><i>IJCAI Workshop</i></p>
     <p style="margin: 5px 0 0 0;"> <small>We propose a multi-teacher adversarial robustness distillation framework with adaptive weighting. Adversarially trained CNNs on perturbed data act as teachers for a student model trained on clean data. Adaptive weights adjust the teachers' contributions based on precision. This enhances the student's learning and robustness to adversarial attacks. The student model remains resilient without exposure to perturbed data.</small> 
     </p>
   </div>
