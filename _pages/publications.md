@@ -12,10 +12,6 @@ Journal Articles
 **Hayat Ullah**, Abbas Khan, Abbas Khan, Arslan Munir <br>
   _IEEE Transactions on Artificial Intelligence (2026)_, [CODE](https://github.com/hayatkhan8660-maker/OD-VIRAT)
 
-- [**Trustworthy Adversarial Robustness via Adaptive Learning-Driven Multi-Teacher Knowledge Distillation**](https://ceur-ws.org/Vol-4254/paper21.pdf) <br>
-**Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
-  _IJCAI Workshop (2026)_, [CODE](https://github.com/iscaas/Adverserial-Multi-Teacher-knowledge-Distillation)
-
 - [**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**](https://ieeexplore.ieee.org/abstract/document/11553390) <br>
 Imran Latif, Muhammad Ali Shafique, **Hayat Ullah**, Alex C. Newkirk, Xi Yu, Arslan Munir <br>
   _IEEE Transations on Cloud Computing (2025)_, [CODE](https://github.com/iscaas/HPC-Performance-Benchmarking/tree/main/Liquid_vs_Air-cooled_H100_Benchmarking)
@@ -63,6 +59,10 @@ _IEEE IoTJ (2021)_
 
 Conference Papers
 ----
+- [**Trustworthy Adversarial Robustness via Adaptive Learning-Driven Multi-Teacher Knowledge Distillation**](https://ceur-ws.org/Vol-4254/paper21.pdf) <br>
+**Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
+  _IJCAI Workshop (2026)_, [CODE](https://github.com/iscaas/Adverserial-Multi-Teacher-knowledge-Distillation)
+  
 - [**A Deep Learning Framework for Blended Distortion Segmentation in Stitched Images**](https://link.springer.com/chapter/10.1007/978-3-030-71051-4_6) <br>
 **Hayat Ullah**, Muhammad Irfan, Kyungjin Han, Jong Weon Lee <br>
 _Proceedings from IPCV'20 (2021)_
