@@ -143,7 +143,7 @@ Selected Publications
   <img src="./images/od_virat.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments [<a href="https://arxiv.org/pdf/2507.12396" title="Tooltip Text">PDF</a>]</h3>
-    <p style="margin: 5px 0 0 0; font-size:12px;"><i>arXiv</i></p>
+    <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Artificial Intelligence</i></p>
     <p style="margin: 5px 0 0 0;"> <small> We introduce two object detection benchmarks, OD-VIRAT Large and OD-VIRAT Tiny, for surveillance imagery. Both cover 10 scenes recorded from significant height and distance. OD-VIRAT Large contains 8.7 million instances in 599,996 images, while OD-VIRAT Tiny has 288,901 instances in 19,860 images. Our proposed OD-VIRAT offers rich annotations of bounding boxes and categories. </small> </p>
   </div>
 </div>
