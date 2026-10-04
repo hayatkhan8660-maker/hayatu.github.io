@@ -44,7 +44,7 @@ Work Experience
 
   <div style="text-align: center;">
     <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/FAU.png" alt="FAU" style="max-width: 100px; max-height: 80px; object-fit: contain;">
+      <img src="./images/FAU.png" alt="FAU" style="max-width: 100px; max-height: 80px; object-fit: contain;">
     </div>
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://www.fau.edu/" target="_blank">Florida Atlantic University</a><br>
@@ -55,7 +55,7 @@ Work Experience
 
   <div style="text-align: center;">
     <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/KSU.png" alt="KSU" style="max-width: 100px; max-height: 80px; object-fit: contain;">
+      <img src="./images/KSU.png" alt="KSU" style="max-width: 100px; max-height: 80px; object-fit: contain;">
     </div>
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://www.k-state.edu/" target="_blank">Kansas State University</a><br>
@@ -66,7 +66,7 @@ Work Experience
 
   <div style="text-align: center;">
     <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Sejong_University_logo.png" alt="Sejong University" style="max-width: 100px; max-height: 80px; object-fit: contain;">
+      <img src="./images/Sejong_University_logo.png" alt="Sejong University" style="max-width: 100px; max-height: 80px; object-fit: contain;">
     </div>
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://en.sejong.ac.kr/eng/index.do" target="_blank">Sejong University</a><br>
@@ -77,7 +77,7 @@ Work Experience
 
   <div style="text-align: center;">
     <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/NINEVR_logo.png" alt="NINE VR" style="max-width: 100px; max-height: 80px; object-fit: contain;">
+      <img src="./images/NINEVR_logo.png" alt="NINE VR" style="max-width: 100px; max-height: 80px; object-fit: contain;">
     </div>
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://www.crunchbase.com/organization/nine-vr" target="_blank">NINE VR</a><br>
@@ -88,7 +88,7 @@ Work Experience
 
   <div style="text-align: center;">
     <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://hayatkhan8660-maker.github.io/hayatu.github.io/images/Sejong_University_logo.png" alt="Sejong University" style="max-width: 100px; max-height: 80px; object-fit: contain;">
+      <img src="./images/Sejong_University_logo.png" alt="Sejong University" style="max-width: 100px; max-height: 80px; object-fit: contain;">
     </div>
     <p style="margin: 8px 0 0 0; font-size:15px;">
       <a href="https://en.sejong.ac.kr/eng/index.do" target="_blank">Sejong University</a><br>
