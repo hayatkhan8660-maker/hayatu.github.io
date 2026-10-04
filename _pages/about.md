@@ -168,7 +168,7 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-  <img src=./images/framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="./images/framework.png" alt="Image 1" style="width: 350px; height: auto; margin-right: 20px;">
   <div style="text-align: justify;">
     <h3 style="margin: 0;">Efficient Fire Segmentation for IoT-Assisted Intelligent Transportation Systems [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894370" title="Tooltip Text">PDF</a>]</h3>
     <p style="margin: 5px 0 0 0; font-size:12px;"><i>IEEE Transactions on Intelligent Transportation</i></p>
