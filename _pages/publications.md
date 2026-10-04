@@ -16,9 +16,9 @@ Journal Articles
 **Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
   _IJCAI Workshop (2026)_, [CODE](https://github.com/iscaas/Adverserial-Multi-Teacher-knowledge-Distillation)
 
-- [**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**](https://arxiv.org/abs/2507.16781) <br>
+- [**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**](https://ieeexplore.ieee.org/abstract/document/11553390) <br>
 Imran Latif, Muhammad Ali Shafique, **Hayat Ullah**, Alex C. Newkirk, Xi Yu, Arslan Munir <br>
-_arXiv (2025)_, [CODE](https://github.com/iscaas/HPC-Performance-Benchmarking/tree/main/Liquid_vs_Air-cooled_H100_Benchmarking)
+  _IEEE Transations on Cloud Computing (2025)_, [CODE](https://github.com/iscaas/HPC-Performance-Benchmarking/tree/main/Liquid_vs_Air-cooled_H100_Benchmarking)
 
 - [**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**](https://arxiv.org/abs/2507.06411) <br>
 **Hayat Ullah**, Arslan Munir, Oliver Nina <br>
